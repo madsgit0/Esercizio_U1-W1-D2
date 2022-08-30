@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    font-family: 'Albert Sans', sans-serif;
+    padding: 20px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    align-items: center;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.correlati{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-color: black;
+    border: 1px;
+
+}
